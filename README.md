@@ -1,32 +1,26 @@
-# Stage of Light
+# Lotus Breeze
 
-**Stage of Light** is a Unity project developed for NTNU Art Museum, designed to project dynamic visuals onto physical surfaces such as walls and floors in a room setup. This project combines real-time visual rendering and projection mapping with external systems like Resolume Arena to synchronize the virtual environment with the physical space.
+**Lotus Breeze太液荷風** is a Unity project developed for NTNU Art Museum, designed to project 6 looped animated video clips of Lotus Breeze onto the walls and floors in Stage of Light. This project combines real-time visual rendering and projection mapping with external systems like Resolume Arena to synchronize the virtual environment with the physical space.
 
-![Stage of Light Scene Preview](https://github.com/hsuehyt/StageOfLight/blob/main/ReadMe/Screenshot%202024-10-08%20153514.png)
-
-## Features
-
-- **Physical Models**: Represents real-world surfaces for precise projection mapping.
-- **Dynamic, Real-time Projections**: Adjusts camera views and projection based on user position for accurate alignment on walls and floors.
-- **Spout Integration**: Sends render textures to external projection software (e.g., Resolume Arena).
-- **Skybox Calibration**: A 360-degree skybox for alignment and calibration of the physical setup.
+![Lotus Breeze Preview](https://github.com/hsuehyt/LotusBreeze/blob/main/ReadMe/Screenshot%202024-11-06%20232708_2.png)
 
 ## Getting Started
 
 1. **Clone the repository**: 
     ```bash
-    git clone https://github.com/hsuehyt/StageOfLight.git
+    git clone https://github.com/hsuehyt/LotusBreeze.git
     ```
 2. **Open the Project in Unity**:
     - The project is designed for **Unity 2021.3.6f1** or higher.
 
 3. **Load the Scene**:
-    - Open the `PanoramicScene` from the `Assets/StageOfLight/` folder to explore the dynamic projection system.
+    - Open the `SceneLotusBreeze` from the `Assets/StageOfLight/` folder to explore the dynamic projection system.
 
 ---
 
 ### Credits
 
+- 陳韻如 太液荷風動畫
 - 李綠恩 Lu-En Li [GitHub](https://github.com/LeeMegumi)
 - 薛佑廷 Yuting Hsueh [GitHub](https://github.com/hsuehyt)
 - 教育部 前瞻顯示科技與跨領域人才培育計畫 總計畫辦公室  
